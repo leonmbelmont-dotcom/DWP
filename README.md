@@ -9,6 +9,10 @@ Caracteristicas
 * Organización clara en la carpeta docs/ para despliegue en GitHub Pages.
 * Código limpio y comentado para facilitar mantenimiento.
   
+Demo en linea
+El sitio está disponible en GiHub Pages:
+- Visitar DWP (https://leonmbelmont-dotcom.github.io/Desarrollo-Web-Profesional/)
+  
 Archivos importantes
 -------------------
 - `index.html` - Página principal.
